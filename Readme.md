@@ -14,6 +14,9 @@ Through a workshop
 
 I was able to create, edit, add and commit (save the version)
 
+## How this benefit work place?
+
+The Audit trail is better captured
 
 
 
