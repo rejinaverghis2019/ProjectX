@@ -10,6 +10,10 @@ To find out whether it works
 
 Through a workshop
 
+## Results
+
+I was able to create, edit, add and commit (save the version)
+
 
 
 
